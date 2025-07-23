@@ -24,7 +24,8 @@ This Power BI project analyzes historical stock data with a focus on price trend
 - Time intelligence visuals
 
 ## 📸 Dashboard Preview
-(Insert screenshots here)
+(<img width="2686" height="1556" alt="image" src="https://github.com/user-attachments/assets/6b01001b-0328-4f73-85f9-6f261aa31341" />
+)
 
 ## 💡 Insights
 - Identify trading days with peak volume
