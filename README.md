@@ -1,7 +1,6 @@
 # Stock-Data-Analysis-Power-BI-
 Power BI Dashboard -- Stock Data Analysis 
 
-
 # 📊 Stock Data Analysis (Power BI)
 
 This Power BI project analyzes historical stock data with a focus on price trends, trading volume, and volatility indicators.
